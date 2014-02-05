@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Lesson12\Assets\BlockGreen.cs">
+    <Files>
+      <File FileName="..\Lesson12\Assets\BlockBlue.cs" Line="14" Column="7" />
+      <File FileName="..\Lesson12\Assets\BlockGreen.cs" Line="22" Column="1" />
+      <File FileName="..\Lesson12\Assets\BlockRed.cs" Line="11" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

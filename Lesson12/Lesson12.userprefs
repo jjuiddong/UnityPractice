@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Lesson16\Assets\Scripts\Bumper.cs">
+    <Files>
+      <File FileName="..\Lesson16\Assets\Scripts\Flipper.cs" Line="24" Column="33" />
+      <File FileName="..\Lesson16\Assets\Scripts\FlipperTouch.cs" Line="31" Column="9" />
+      <File FileName="..\Lesson16\Assets\Scripts\Plunger.cs" Line="41" Column="38" />
+      <File FileName="..\Lesson16\Assets\Scripts\ShutterSensor.cs" Line="18" Column="1" />
+      <File FileName="..\Lesson16\Assets\Scripts\OutFall.cs" Line="19" Column="1" />
+      <File FileName="..\Lesson16\Assets\Scripts\PinballMachine.cs" Line="24" Column="1" />
+      <File FileName="..\Lesson16\Assets\Scripts\Bumper.cs" Line="21" Column="1" />
+      <File FileName="..\Lesson16\Assets\Scripts\SlingShot.cs" Line="15" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
